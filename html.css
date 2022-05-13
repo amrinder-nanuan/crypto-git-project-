@@ -37,7 +37,7 @@
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(idk.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(123.webp);
 	background-position:center ;
 	background-size: cover;
 }
